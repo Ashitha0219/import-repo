@@ -33,6 +33,6 @@ jobs:
       with:
         image: ashitha1902/docker-repo
         registry: docker.io
-        username: ${{ secrets.USERNAME }}
-        password: ${{ secrets.PASSWORD }}
+        username: Ashitha0219
+        password: Ashi@git1
          
