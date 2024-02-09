@@ -32,7 +32,7 @@ jobs:
       uses: mr-smithers-excellent/docker-build-push@v4
       with:
         image: ashitha1902/docker-repo
-        registry: docker.io
+        registry: registry.hub.docker.com
         username: ${{ secrets.USERNAME }}
         password: ${{ secrets.PASSWORD }}
          
